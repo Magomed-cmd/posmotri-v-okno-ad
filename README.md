@@ -1,1 +1,1 @@
-https://github.com/Magomed-cmd/posmotri-v-okno-ad-VMM
+https://github.com/Magomed-cmd/posmotri-v-okno-ad
